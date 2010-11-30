@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common
+END
+na_sync.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/na_sync.h
+END
+nc_news.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/nc_news.h
+END
+na_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/na_misc.c
+END
+nc_frame.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/nc_frame.c
+END
+na_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/na_common.h
+END
+CWorker.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/CWorker.c
+END
+na_sock.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/na_sock.c
+END
+na_misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/na_misc.h
+END
+nc_frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/nc_frame.h
+END
+CXmlParser.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/CXmlParser.c
+END
+CWorker.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/CWorker.h
+END
+na_sock.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/na_sock.h
+END
+CXmlParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/CXmlParser.h
+END
+CISO8583.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/CISO8583.c
+END
+CComPort.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/CComPort.c
+END
+CArrayMgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/CArrayMgr.c
+END
+CISO8583.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/CISO8583.h
+END
+CComPort.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/CComPort.h
+END
+CSocket.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/CSocket.c
+END
+na_array.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/na_array.c
+END
+CArrayMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/CArrayMgr.h
+END
+CSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/CSocket.h
+END
+na_array.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/na_array.h
+END
+CCriticalLock.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/CCriticalLock.c
+END
+CUtility.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/CUtility.c
+END
+na_network.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/na_network.c
+END
+GMaster.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/GMaster.h
+END
+ISODefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/ISODefine.h
+END
+CCriticalLock.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/CCriticalLock.h
+END
+CUtility.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/CUtility.h
+END
+GTLV.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/GTLV.c
+END
+common.lib
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/common.lib
+END
+na_network.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/na_network.h
+END
+na_time.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/na_time.c
+END
+GTLV.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/GTLV.h
+END
+na_proc.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/na_proc.c
+END
+na_time.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/na_time.h
+END
+CLogger.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/CLogger.c
+END
+na_proc.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/na_proc.h
+END
+CLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/CLogger.h
+END
+libna.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/libna.h
+END
+na_sync.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/na_sync.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/makefile
+END
+nc_news.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/common/nc_news.c
+END

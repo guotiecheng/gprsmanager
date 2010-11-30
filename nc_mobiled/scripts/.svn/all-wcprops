@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/scripts
+END
+mkversion
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/scripts/mkversion
+END

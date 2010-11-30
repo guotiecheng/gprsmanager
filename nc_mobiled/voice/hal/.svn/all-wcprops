@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/hal
+END
+hal_g600.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/hal/hal_g600.c
+END
+hal_uc864e.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/hal/hal_uc864e.c
+END
+hal_eth.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/hal/hal_eth.c
+END
+hal_g600.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/hal/hal_g600.h
+END
+hal_buzzer.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/hal/hal_buzzer.c
+END
+hal_gtm900b.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/hal/hal_gtm900b.c
+END
+hal_uc864e.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/hal/hal_uc864e.h
+END
+hal_eth.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/hal/hal_eth.h
+END
+hal_cx930xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/hal/hal_cx930xx.c
+END
+hal_buzzer.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/hal/hal_buzzer.h
+END
+hal_gtm900b.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/hal/hal_gtm900b.h
+END
+arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/hal/arch.c
+END
+hal_cx930xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/hal/hal_cx930xx.h
+END
+arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/hal/arch.h
+END
+hal_led.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/hal/hal_led.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/hal/makefile
+END
+hal_led.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/hal/hal_led.h
+END

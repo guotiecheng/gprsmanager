@@ -1,0 +1,5 @@
+system.conf is an index about all conf-items. Others
+conf-file'a name must be the same as it is in system.conf.
+For example , application.mobiled is the conf 
+of mobiled , but if it is NULL in the system.conf,
+configd will search mobiled conf  in mobiled.conf file.

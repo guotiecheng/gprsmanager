@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/linux/!svn/ver/5115/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/gprs
+END
+gprs.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/linux/!svn/ver/5115/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/gprs/gprs.h
+END
+gprs_ioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/gprs/gprs_ioctl.h
+END
+gprs.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/linux/!svn/ver/5115/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/gprs/gprs.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/gprs/makefile
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/linux/!svn/ver/5115/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled
+END
+nc_mobiled.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/linux/!svn/ver/5092/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/nc_mobiled.h
+END
+nc_mobile.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/linux/!svn/ver/5092/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/nc_mobile.c
+END
+nc_mobiled.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/linux/!svn/ver/5115/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/nc_mobiled.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/makefile
+END
+nc_mobile.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/linux/!svn/ver/5119/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/nc_mobile.h
+END

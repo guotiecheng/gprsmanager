@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/module
+END
+mod_optm.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/module/mod_optm.c
+END
+optm.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/module/optm.c
+END
+mod_optm.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/module/mod_optm.h
+END
+optm.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/module/optm.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/linux/!svn/ver/5070/DEV18-NAP/netcluster_work/trunk/src/nc_mobiled/voice/module/makefile
+END
